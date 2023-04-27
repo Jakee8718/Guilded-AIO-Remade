@@ -9,7 +9,8 @@
 ## INFO
 
 ```diff
-+ This repo was made by xKian (https://github.com/sfx2me/Guilded-AIO) and I simply added a new feauture and re-did the colors and debug status.
++ This repo was made by xKian (https://github.com/sfx2me/Guilded-AIO) and I simply added a new feauture 
++ and re-did the colors and debug status.
 - i am NOT skidding, now go get a life.
 ```
 You can find xKians GitHub [Here](https://github.com/sfx2me/Guilded-AIO)
