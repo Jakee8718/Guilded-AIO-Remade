@@ -3,8 +3,17 @@
 </h1>
 
 <p align="center">
-  Guilded AIO is a script that allows you to generate accounts and much more
+  Guilded AIO is a script that allows you to generate accounts and much more. This was made by [xKian](https://github.com/sfx2me/Guilded-AIO) and was edited by me.
 </p>
+
+## INFO
+
+```diff
++ This repo was made by xKian (https://github.com/sfx2me/Guilded-AIO) and I simply added a new feauture and re-did the colors and debug status.
+- i am NOT skidding, now go get a life.
+```
+You can find xKians GitHub [Here](https://github.com/sfx2me/Guilded-AIO)
+
 
 <p align="center"> 
   <kbd>
@@ -13,10 +22,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/sfx2me/Guilded-AIO?style=flat-square"> </a>
-  <img src="https://img.shields.io/github/last-commit/sfx2me/Guilded-AIO?style=flat-square"> </a>
-  <img src="https://img.shields.io/github/stars/sfx2me/Guilded-AIO?color=7F9DE0&label=Stars&style=flat-square"> </a>
-  <img src="https://img.shields.io/github/forks/sfx2me/Guilded-AIO?color=7F9DE0&label=Forks&style=flat-square"> </a>
+  <img src="https://img.shields.io/github/languages/top/Jakee8718/Guilded-AIO-Remade?style=flat-square"> </a>
+  <img src="https://img.shields.io/github/last-commit/Jakee8718/Guilded-AIO-RemadeI?style=flat-square"> </a>
+  <img src="https://img.shields.io/github/stars/Jakee8718/Guilded-AIO-Remade?color=7F9DE0&label=Stars&style=flat-square"> </a>
+  <img src="https://img.shields.io/github/forks/Jakee8718/Guilded-AIO-Remade?color=7F9DE0&label=Forks&style=flat-square"> </a>
 </p>
 
 <h4 align="center">
@@ -65,13 +74,12 @@ if you read this, star the repo
 > install requirements
 > add invite code in config.json
 > run main.py
-!! I will make a youtube tutorial aswell as better instructions
 ```
 
 ## 🎉・Upcoming/enhancements
 ```sh-session
 
-- Add bio
+- Verification in servers
 - Make tokens last even longer
 - Add Email verification
 ```
@@ -83,23 +91,15 @@ This project is licensed under the GPL General Public License v3.0 License
 ```js
   ・Educational purpose only and all your consequences caused by you actions is your responsibility
   ・Selling this Free AIO is forbidden
-  ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
+  ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo. All credits go to [xKian](https://github.com/sfx2me/Guilded-AIO)
 ```
 
 ## 💭・ChangeLog
 
 ```diff
-v1.2.0 ⋮ 2022-09-09
-+ Added Proxy support
-+ Added loaded accounts in title
-+ Cleaned up Code
-
-v1.1.0 ⋮ 2022-09-05
-+ Added Token Checker
-+ Cleaned up Code
-
-v1 ⋮ 2022-09-05
-+ Added Main Script
+v2.1.2 ⋮ 4/27/2023
++ Added New Colors
++ Added New Debug Status
 + Cleaned up Code
 ```
 
