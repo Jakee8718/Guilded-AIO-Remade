@@ -60,11 +60,6 @@ if you read this, star the repo
 ```
 ---
 
-<p align="center"> 
-  <kbd>
-<img src="https://cdn.discordapp.com/attachments/1004679809365975100/1016428271409299577/unknown.png"></img>
-  </kbd>
-</p>
 
 ---
 
@@ -92,8 +87,9 @@ This project is licensed under the GPL General Public License v3.0 License
 ```js
   ・Educational purpose only and all your consequences caused by you actions is your responsibility
   ・Selling this Free AIO is forbidden
-  ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo. All credits go to [xKian](https://github.com/sfx2me/Guilded-AIO)
+  ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo.
 ```
+All credits go to [xKian](https://github.com/sfx2me/Guilded-AIO)
 
 ## 💭・ChangeLog
 
